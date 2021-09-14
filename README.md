@@ -7,7 +7,7 @@ The script accepts 1 optional parameter, which is the path to a local file conta
 If no parameters are passed to the script, it will search in the local script directory and use the first .pre file that it can find.  
 
 ### Usage ###  
-The scripts require Python 3.8+  
+The script requires Python 3.8+  
 No other libraries are required  
 
 ### Clone this repo: ###  
