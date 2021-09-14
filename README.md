@@ -19,7 +19,8 @@ cd jba-challenge/
 ### Run the script with no parameters to import the data from the .pre file in the script directory: ###  
 python3 parse_rain_data.py  
 
-### Or pass a custome file path to the script as a command line parameter: ###  
+### Or pass a custom file path to the script as a command line parameter: ###  
 python3 parse_rain_data.py /home/username/some_file.pre  
 
-The script will generate a SQLite database named 'precipitation_database' in the script directory.  
+### Output: ###  
+The script will generate an SQLite database named 'precipitation_database' in the script directory.  
