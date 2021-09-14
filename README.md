@@ -4,7 +4,7 @@ JBA Code Challenge
 ### Details ###  
 The is a Python script to parse rain precipitation data from a local file, format the data, create a database table and insert the formatted data into a local SQLite database.  
 The script accepts 1 optional parameter, which is the path to a local file containing precipitation data.  
-If no parameters are passed to the script, it will search in the local script dirrectory and use the first .pre file that it finds.  
+If no parameters are passed to the script, it will search in the local script directory and use the first .pre file that it can find.  
 
 ### Usage ###  
 The scripts require Python 3.8+  
