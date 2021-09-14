@@ -1,4 +1,4 @@
-# Syatem imports
+# System imports
 from sqlite3 import connect
 
 
