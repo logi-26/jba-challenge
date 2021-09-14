@@ -162,7 +162,7 @@ def main():
 		while (line := file.readline().rstrip()):
 			file_content_list.append(line)
 	
-	# Perfrom some basic validation checks on the file and exit the app if the file is not valid
+	# Perform some basic validation checks on the file and exit the app if the file is not valid
 	if not _is_file_valid(file_content_list):
 		print(f'The file does not appear to contain valid precipitation data.\nExiting app.\n')
 		exit()
