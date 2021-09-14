@@ -16,7 +16,7 @@ git clone https://github.com/logi-26/jba-challenge
 ### Change into the repo directory: ###  
 cd jba-challenge/  
 
-### Run the script with no parameters to import the data from the local 'cru-ts-2-10.1991-2000-cutdown.pre' in the script directory: ###  
+### Run the script with no parameters to import the data from the .pre file in the script directory: ###  
 python3 parse_rain_data.py  
 
 ### Or pass a custome file path to the script as a command line parameter: ###  
